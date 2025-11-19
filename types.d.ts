@@ -1,4 +1,4 @@
-declare module '@frida/dbus' {
+declare module '@ainakan/dbus' {
     import { EventEmitter } from "events";
     import { Duplex } from "stream";
 

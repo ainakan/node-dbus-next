@@ -1,5 +1,5 @@
 {
-  "name": "@frida/dbus",
+  "name": "@ainakan/dbus",
   "description": "DBus library for JavaScript environments",
   "version": "1.1.1",
   "publishConfig": {
@@ -43,8 +43,8 @@
     "url": "http://github.com/dbusjs/node-dbus-next.git"
   },
   "dependencies": {
-    "@frida/put": "^1.0.0",
-    "@frida/xml2js": "^1.0.1",
+    "@ainakan/put": "^1.0.0",
+    "@ainakan/xml2js": "^1.0.1",
     "event-stream": "3.3.4",
     "hexy": "^0.2.10",
     "jsbi": "^2.0.5",

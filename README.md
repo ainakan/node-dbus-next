@@ -1,6 +1,6 @@
-# @frida/dbus
+# @ainakan/dbus
 
-Frida-optimized ESM fork of https://github.com/dbusjs/node-dbus-next.
+Ainakan-optimized ESM fork of https://github.com/dbusjs/node-dbus-next.
 
 [Documentation](https://acrisci.github.io/doc/node-dbus-next/)
 
